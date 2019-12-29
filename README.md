@@ -1,3 +1,7 @@
+This is demo project made in React and Typescript which fetches the questions from Stackoverflow API. 
+
+App shows the list of the questions in the page with infinite scroll. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
